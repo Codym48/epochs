@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "DDTHR",
+        "furnsh",
+        "isort",
+        "leapsecond",
+        "leapseconds",
+        "spiceypy",
+        "timout"
+    ],
+    "python.formatting.provider": "black"
+}
