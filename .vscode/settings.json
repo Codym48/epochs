@@ -6,7 +6,8 @@
         "leapsecond",
         "leapseconds",
         "spiceypy",
-        "timout"
+        "timout",
+        "unitim"
     ],
     "python.formatting.provider": "black"
 }
